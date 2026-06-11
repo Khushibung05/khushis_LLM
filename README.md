@@ -1,4 +1,5 @@
-##**vs-window-1**
+**vs-window-1**
+
 python generate_dataset.py 
 
 python train_phi2.py 
@@ -9,7 +10,7 @@ uvicorn api:app --reload
 
 python chat.py
 
-##vs-window-2**
+**vs-window-2**
 
 npx create-react-app coding-ai-ui 
 
